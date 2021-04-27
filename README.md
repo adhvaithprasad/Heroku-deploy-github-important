@@ -3,4 +3,4 @@ Important files I have to use to be able to deploy node.js application every tim
 
 make sure to include a package.json file with command
 
- $npm init -y
+ $ npm init -y
